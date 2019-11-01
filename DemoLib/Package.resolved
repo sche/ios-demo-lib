@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DummyLib",
+        "repositoryURL": "https://github.com/sche/ios-dummy-lib.git",
+        "state": {
+          "branch": "master",
+          "revision": "c05cb1e05e174df8a0a458e35cb0e715ba0bbdc6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
